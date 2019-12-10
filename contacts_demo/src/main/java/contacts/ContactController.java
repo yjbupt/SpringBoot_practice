@@ -17,11 +17,13 @@ public class ContactController {
     public String home(Map<String,Object> model){
         List<Contact> contacts=contactReposity.findAll();
         model.put("contacts",contacts);
+        System.out.println(contacts);
         return "home";
     }
     @RequestMapping(method = RequestMethod.POST)
     public String submit(Contact contact){
         contactReposity.save(contact);
+        System.out.println(contact);
         return "redirect:/";
     }
 }
