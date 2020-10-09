@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67ab5ee8-d10e-4214-9859-030c0ddd4e29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/contacts/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/contacts/ContactController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contacts/ContactController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/contacts/ContactReposity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contacts/ContactReposity.java" afterDir="false" />
-    </list>
+    <list default="true" id="8476fefa-02db-4679-b9c4-185bed8b5448" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,29 +11,15 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="contracts" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
+        <option value="XML" />
+        <option value="spring-beans.schema" />
         <option value="CSS File" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -50,27 +30,38 @@
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
-        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1UUyND7aT7MPHO4JNPqLGwYFcFM" />
+  <component name="ProjectId" id="1Uh6FpqTOcPOeF7Zly7LwAMRHYz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../contacts_demo" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code_practice\SpringBoot_practice\login_demo\src\main\resources" />
+      <recent name="E:\code_practice\SpringBoot_practice\login_demo\src\main\resources\templates\static.css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -86,14 +77,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="contracts" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="contacts.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="contacts.Application" />
+      <module name="login_demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yj.test.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -109,15 +94,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="67ab5ee8-d10e-4214-9859-030c0ddd4e29" name="Default Changelist" comment="" />
-      <created>1575425426009</created>
+      <changelist id="8476fefa-02db-4679-b9c4-185bed8b5448" name="Default Changelist" comment="" />
+      <created>1575796378148</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575425426009</updated>
-      <workItem from="1575425430118" duration="9805000" />
-      <workItem from="1575468534494" duration="185000" />
-      <workItem from="1575511840070" duration="4459000" />
-      <workItem from="1575861052783" duration="130000" />
+      <updated>1575796378148</updated>
+      <workItem from="1575796383120" duration="9206000" />
+      <workItem from="1575855387060" duration="5333000" />
+      <workItem from="1575888754278" duration="128000" />
+      <workItem from="1575893503146" duration="3603000" />
+      <workItem from="1575961821381" duration="3600000" />
+      <workItem from="1581585477932" duration="593000" />
     </task>
     <servers />
   </component>
@@ -136,5 +123,31 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yj/test/security/CustomUserService.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yj/test/security/CustomUserService.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yj/test/security/CustomUserService.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yj/test/security/CustomUserService.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
